@@ -1,4 +1,4 @@
-baseURL = "https://evtinfo.netlify.com"
+baseURL = "https://evtinfo.com"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "4"
