@@ -4,17 +4,17 @@ disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
 theme = "airspace"
-title = "Airspace | Creative Agency Hugo Template"
+title = "EVision | Embedded Vision Techonologies"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2019 [EVision](https://evtinfo.com) All Rights Reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2019 [EVision](https://evtinfo.com) All Rights Reserved"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
@@ -79,17 +79,17 @@ weight = 6
 author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "info@evtinfo.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
-logo = "images/logo.png"
+location = "Tullahoma, TN, USA" #"North Main Street,Brooklyn Australia"
+logo = "images/evt_logo.png"
 mobile = "0124857985320"
 multi_author = false
 [params.gmap]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "35.362022" # "51.5223477"
+map_longitude = "-86.209435" #"-0.1622023"
 map_marker = "images/marker.png"
 [params.nav_button]
 enable = true
