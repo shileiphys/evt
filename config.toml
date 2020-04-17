@@ -24,21 +24,25 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.footer]]
-URL = "project"
-name = "Project"
+URL = "product"
+name = "Products"
 weight = 2
+# [[menu.footer]]
+# URL = "project"
+# name = "Project"
+# weight = 2
 [[menu.footer]]
 URL = "service"
-name = "Service"
+name = "Services"
 weight = 3
-[[menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
-[[menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
+# [[menu.footer]]
+# URL = "pricing"
+# name = "Pricing"
+# weight = 4
+# [[menu.footer]]
+# URL = "faq"
+# name = "FAQ"
+# weight = 5
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
@@ -48,29 +52,33 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.main]]
-URL = "project"
-name = "Project"
+URL = "product"
+name = "Products"
 weight = 2
+# [[menu.main]]
+# URL = "project"
+# name = "Project"
+# weight = 2
 [[menu.main]]
 URL = "service"
-name = "Service"
+name = "Services"
 weight = 3
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
-[[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 5
-[[menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "Pages"
+# [[menu.main]]
+# URL = "blog"
+# name = "Blog"
+# weight = 4
+# [[menu.main]]
+# hasChildren = true
+# name = "Pages"
+# weight = 5
+# [[menu.main]]
+# URL = "faq"
+# name = "FAQ"
+# parent = "Pages"
+# [[menu.main]]
+# URL = "pricing"
+# name = "Pricing"
+# parent = "Pages"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
