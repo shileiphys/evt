@@ -1,5 +1,6 @@
 ---
 title: "EVCMPi"
+weight: 20
 description: "this is meta description"
 draft: false
 image : "images/portfolio/cm3_cam.png"

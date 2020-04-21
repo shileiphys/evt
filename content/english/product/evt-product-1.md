@@ -1,5 +1,6 @@
 ---
-title: "Rio Furniture"
+title: "Monorx"
+weight: 10
 description: "this is meta description"
 draft: false
 image : "images/portfolio/monorx1.jpg"
