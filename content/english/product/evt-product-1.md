@@ -3,7 +3,7 @@ title: "Monorx"
 weight: 10
 description: "this is meta description"
 draft: false
-image : "images/portfolio/monorx1.jpg"
+image : "images/portfolio/monorx_gray.png"
 bg_image: "images/featue-bg.jpg"
 category: "UI/UX Design"
 information:
