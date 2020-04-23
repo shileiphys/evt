@@ -19,6 +19,10 @@ information:
     info : "HTML5 / PHP / CSS3"
   - label : "Client"
     info : "Jannie Kelonsky"
+app:
+  enable : true
+  ios: "https://apps.apple.com/us/app/monorx/id1438886000"
+  android: ""
 summary: "d;alsgjka;lfjadsl;kjfqw"
 ---
 
@@ -51,5 +55,3 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero qua
 libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
 mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
 culpa? Delectus dolorum facere quasi iure explicabo?
-
-{{< youtube id="j0VfRZ8-fGg" autoplay="true" >}}
