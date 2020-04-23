@@ -11,7 +11,7 @@ about:
           nesciunt perspiciatis suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga dolore
           officia adipisci neque!"
   # image : "images/company/company-group-pic.jpg"
-  image : "images/portfolio/eye_modeling.png"  
+  image : "images/portfolio/eye_modeling.png"
 
 
 ########################## featured service ############################
@@ -45,7 +45,7 @@ service:
           blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
   service_item:
     # service item loop
-    - icon: ion-settings
+    - icon: ion-network
       name: PCB Design
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
@@ -60,7 +60,7 @@ service:
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : ion-ios-time
+    - icon : ion-settings
       name: Manufacturing
       content: "From product design to manufacturing"
 
