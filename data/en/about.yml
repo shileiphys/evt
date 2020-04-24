@@ -3,23 +3,10 @@ about:
   enable : true
   image : "images/company/about.jpg"
   title : "Embedded Vision for Better Health"
-  content : "Located in Tullahoma, TN, E-Vision Technologies, Inc. (E-Vision) is a
-             start-up company that focuses on providing vision care professionals
-             (ophthalmology and optometry offices) as well as primary health care
-             facility a vision assessment device that performs quick, non-invasive,
-             automatic, binocular eye exams including visual acuity test, pupil examine,
-             refraction assessment, ocular motility/alignment/functional examine to
-             identify vision disorders, including strabismus (cross eye), amblyogenic
-             condition, ocular alignment abnormality (orbital, intraocular, or
-             intracranial diseases), etc.
+  content : "Located in Tullahoma, TN .
 
 
-             Our service/product will significantly reduce time and effort for MD and
-             OD in carrying out entrance eye examine. The automatic detection and diagnostic
-             feature of our technologies make eye evaluations easy to preschool or even
-             preverbal children. E-Vision’s target markets include US and foreign eye
-             doctors’ offices, primary care givers including pediatricians’ offices, schools,
-             and government facilities."
+             Our service/product "
 
   button:
     enable : false
