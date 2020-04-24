@@ -23,7 +23,7 @@ app:
   enable : true
   ios: "https://apps.apple.com/us/app/monorx/id1438886000"
   android: ""
-summary: "d;alsgjka;lfjadsl;kjfqw"
+
 ---
 
 ## Behance Website Redesign
