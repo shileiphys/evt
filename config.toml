@@ -22,11 +22,11 @@ weight = 2
 [[menu.footer]]
 URL = "about"
 name = "About"
-weight = 1
+weight = 3
 [[menu.footer]]
 URL = "product"
 name = "Products"
-weight = 2
+weight = 1
 # [[menu.footer]]
 # URL = "project"
 # name = "Project"
@@ -34,7 +34,7 @@ weight = 2
 [[menu.footer]]
 URL = "service"
 name = "Services"
-weight = 3
+weight = 2
 # [[menu.footer]]
 # URL = "pricing"
 # name = "Pricing"
@@ -44,17 +44,21 @@ weight = 3
 # name = "FAQ"
 # weight = 5
 [[menu.footer]]
+URL = "store"
+name = "Store"
+weight = 6
+[[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 6
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 1
+weight = 3
 [[menu.main]]
 URL = "product"
 name = "Products"
-weight = 2
+weight = 1
 # [[menu.main]]
 # URL = "project"
 # name = "Project"
@@ -62,7 +66,7 @@ weight = 2
 [[menu.main]]
 URL = "service"
 name = "Services"
-weight = 3
+weight = 2
 # [[menu.main]]
 # URL = "blog"
 # name = "Blog"
@@ -79,6 +83,10 @@ weight = 3
 # URL = "pricing"
 # name = "Pricing"
 # parent = "Pages"
+[[menu.main]]
+URL = "store"
+name = "Store"
+weight = 5
 [[menu.main]]
 URL = "contact"
 name = "Contact"
