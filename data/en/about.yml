@@ -3,10 +3,9 @@ about:
   enable : true
   image : "images/company/about.jpg"
   title : "Embedded Vision for Better Health"
-  content : "Located in Tullahoma, TN .
-
-
-             Our service/product "
+  content : "
+  This is about page .
+  "
 
   button:
     enable : false
