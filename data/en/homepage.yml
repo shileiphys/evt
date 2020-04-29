@@ -2,8 +2,8 @@
 banner:
   enable : true
   bg_image : "images/landing_bg.png" #"images/slider-bg.jpg"
-  title : "Embedded Vision Technologies <br/> and Design Services"
-  content : "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title : "Embedded Vision Technologies <br/>"
+  content : ""
   button:
     enable : true
     label : "Discover Our Products"
@@ -13,13 +13,15 @@ banner:
 about:
   enable : true
   title : "About Us"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
-              blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-            ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-            nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-            anim id."
+  description : "
+  E-Vision Technologies provids embedded vision solutions to meet healthcare
+  needs. Our products includes Monorx ultraportable autorefractor, and raspberry
+  pi computer module motherboard for emmbedd vision use. Our service includes
+  optical design, eye modeling, embedded software and hardware development
+  and maufactory,
+  "
+  content : "
+  "
   image : "images/wrapper-img.png"
 
 
@@ -28,15 +30,17 @@ portfolio:
   enable : true
   bg_image : "images/portfolio_bg.jpg"
   bg : "images/bg.jpg"
-  title : "WE BELIEVE IN GREAT IDEAS"
+  title : "Ultraportable Autorefractor"
+  media: "https://www.youtube.com/embed/j0VfRZ8-fGg?modestbranding=1&mute=1"
   content : "
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  Monorx is a handheld autorefractor. It features fully automated test,
+  instant results, a companina modilbe app and cloud services for remote review.
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  It can be used as a self-testing tool without professional assistances.
+  As an at-home personal eye exam device, it is well suited for telemedicine use.
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
   "
   button:
     enable : true
