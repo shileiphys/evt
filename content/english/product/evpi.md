@@ -1,27 +1,37 @@
 ---
 title: "EVPi"
 weight: 20
-description: "this is meta description"
+description: "Raspberry Pi for Embedded Vision"
 draft: false
 image : "images/portfolio/cm3_cam.png"
 bg_image: "images/featue-bg.jpg"
 category: "Illustration"
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
-    info : "Website Redesign"
-  - label : "Tools Used"
-    info : "Photoshop,Illustrator"
-  - label : "Completed on"
-    info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
+  - label : "Supported Modules :"
+    info : "Computer Module 3"
+  - label : "(Raspberry Pi)"
+    info : "Computer Module 3 lite"
+  - label : "Supported Cameras :"
+    info : "Raspberry Pi Camera V1/V2"
+  - label : ""
+    info : "(x2)"
+  - label : "Dimensions :"
+    info : "62(L) x 50(w) x 10(H)"
+  - label : "Connectivity :"
+    info : "WiFi w/ antenna"
+  - label : ""
+    info : "(support soft AP)"    
+  - label : "Display :"
+    info : "Micro-HDMI"
+  - label : "Storage :"
+    info : "microSD"
+  - label : "Stepper Motor :"
+    info : "DRV8834"
+  - label : "Power :"
+    info : "5v USB / 3.7v LiPo"
 ---
 
-## Behance Website Redesign
+## Designed for Full-Fledged Embedded Vision Application
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
 reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
