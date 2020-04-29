@@ -1,6 +1,6 @@
 ---
-title: "Product"
-description: "this is meta description"
+title: "Products"
+description: ""
 draft: false
 bg_image: "images/featue-bg.jpg"
 ---
