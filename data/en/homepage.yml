@@ -15,7 +15,7 @@ about:
   title : "About Us"
   description : "
   E-Vision Technologies provids embedded vision solutions to meet healthcare
-  needs. Our products includes Monorx ultraportable autorefractor, and raspberry
+  needs. Our products includes Monorx, an ultra-portable autorefractor prototype, and raspberry
   pi computer module motherboard for emmbedd vision use. Our service includes
   optical design, eye modeling, embedded software and hardware development
   and maufactory,
@@ -30,7 +30,7 @@ portfolio:
   enable : true
   bg_image : "images/portfolio_bg.jpg"
   bg : "images/bg.jpg"
-  title : "Ultraportable Autorefractor"
+  title : "Ultra-Portable Autorefractor"
   media: "https://www.youtube.com/embed/j0VfRZ8-fGg?modestbranding=1&mute=1"
   content : "
   Monorx is a handheld autorefractor. It features fully automated test,
