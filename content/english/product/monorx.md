@@ -14,7 +14,7 @@ information:
   - label : "Dimensions :"
     info : "20 x 11 x 11 cm"
   - label : "Weight :"
-    info : "lb"    
+    info : "11 oz"    
   - label : "Power Input (charging) :"
     info : "microUSB"
   - label : "APP :"
