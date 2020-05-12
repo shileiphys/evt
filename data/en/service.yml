@@ -3,7 +3,15 @@ about:
   enable : true
   title : "Optical Design & Eye Modeling"
   content : "
-  To be added ...
+  Customized eye modeling for normal and diseased eyes offers potential assistance
+  for ocular surgery and for the design of customer-tailored spectacle-, contact-,
+  or intraocular lens. With additional modifications, these models can predict
+  visual changes under varied environmental and physical conditions.
+
+
+  Our specialty of optical design and eye moedeling can help to build ophthalmic
+  measurement simulations using customized models of diseased eyes, as a versatile
+  method for medical training as well as for the development of new instruments.
   "
   # image : "images/company/company-group-pic.jpg"
   image : "images/portfolio/eye_modeling.png"
